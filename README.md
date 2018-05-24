@@ -1,6 +1,6 @@
 # NervesRpi3WifiPicam
 
-**TODO: Add description**
+Project to host a Raspberry Pi Camera on a Raspberry Pi 3. Stream the video to the local network at nerves.local:4001
 
 ## Targets
 
